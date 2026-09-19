@@ -9,9 +9,9 @@ HTML, CSS, Javascript.
 Menampilkan website BNCC.
 
 ## Contribution (kontribusi tiap anggota)
-Clarissa -> Sebagai Project Initiator dan mengupload file HTML.
-Maura -> Sebagai Script Engineer dan mengupload file Javascript.
-Louise -> Sebagai Styling Engineer dan mengupload file CSS.
+##### Clarissa -> Sebagai Project Initiator dan mengupload file HTML.
+##### Maura -> Sebagai Script Engineer dan mengupload file Javascript.
+##### Louise -> Sebagai Styling Engineer dan mengupload file CSS.
 
 ## What I Learned
 Clarissa -> "From this seminar, I learned that github is very important for your portofolio in applying for jobs."
